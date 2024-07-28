@@ -1,3 +1,8 @@
 alpine
-easychen/cookiecloud:2023.01.20.16.39
-jxxghp/moviepilot:1.9.12
+easychen/cookiecloud:lastest
+jxxghp/moviepilot:latest
+emby/embyserver:beta
+iyuucn/iyuuplus-dev:latest
+linuxserver/transmission:latest
+jaymoulin/transmission:lates
+linuxserver/qbittorrent:latest
