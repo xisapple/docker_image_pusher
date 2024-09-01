@@ -1,3 +1,4 @@
 easychen/cookiecloud:lastest
 jxxghp/moviepilot:latest
 linuxserver/transmission:4.0.5-r0-ls228
+linuxserver/transmission:4.0.5-r0-ls228
