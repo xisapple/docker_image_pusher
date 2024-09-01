@@ -1,1 +1,1 @@
-linuxserver/transmission:4.0.5-r0-ls228
+red5d/docker-autocompose
