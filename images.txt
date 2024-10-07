@@ -1,2 +1,1 @@
-dreamacro/clash
-v2ray/official
+hanshaobo/clash-and-dashboard
