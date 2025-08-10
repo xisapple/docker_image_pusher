@@ -1,2 +1,7 @@
 mzz2017/v2raya
 jxxghp/moviepilot-v2
+redis
+emby/embyserver
+easychen/cookiecloud
+linuxserver/qbittorrent
+inuxserver/transmission
