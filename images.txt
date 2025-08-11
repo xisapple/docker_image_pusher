@@ -1,3 +1,4 @@
+xinjiawei1/emby_unlockd
 mzz2017/v2raya
 jxxghp/moviepilot-v2
 redis
